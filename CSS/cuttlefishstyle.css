@@ -1,0 +1,27 @@
+/* h1 {
+  text-align: center;
+  font-weight: 400;
+  text-decoration: blue overline wavy;
+  letter-spacing: 15px;
+  font-size: 80px;
+  font-family: papyrus;
+} */
+
+h1 {
+  text-transform: uppercase;
+  font-family: Monospace;
+  text-align: center;
+  font-weight: 100;
+  font-size: 40px;
+  letter-spacing: 20px;
+  text-decoration: purple underline wavy;
+}
+
+p {
+  text-align: right;
+  line-height: 2;
+}
+
+a {
+  text-decoration: none;
+}
